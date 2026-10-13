@@ -1,6 +1,5 @@
 /**
  * Link
- *
  * A single node of a singly linked list. It holds one piece of data and
  * a reference to the next node. A null next means this is the last node.
  */

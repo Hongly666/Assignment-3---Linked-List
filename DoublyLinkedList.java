@@ -2,7 +2,6 @@ import java.util.Objects;
 
 /**
  * DoublyLinkedList
- *
  * Generic, doubly linked, double-ended list (head and tail pointers).
  * Every node points both forward and backward, so the tail can be removed
  * in O(1). This is the main advantage over the singly linked LinkedList,

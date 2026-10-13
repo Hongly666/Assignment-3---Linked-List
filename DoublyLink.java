@@ -1,6 +1,5 @@
 /**
  * DoublyLink
- *
  * A single node of a doubly linked list. It holds one piece of data and
  * references to both the next and the previous node.
  */

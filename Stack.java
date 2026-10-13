@@ -3,7 +3,6 @@
  * The top of the stack is the HEAD of the list, so push and pop only touch
  * the front, which is O(1). (Using the tail as the top would make pop O(n)
  * because deleteLast is O(n) in a singly linked list.)
- *
  * The list grows as needed, so there is no resize step anymore.
  */
 public class Stack<T> {

@@ -2,7 +2,6 @@ import java.util.Objects;
 
 /**
  * LinkedList
- *
  * Generic, singly linked, double-ended list (keeps both a head and a
  * tail pointer). The tail pointer makes insertLast O(1), but because
  * each node only points forward, deleteLast still has to walk the list
